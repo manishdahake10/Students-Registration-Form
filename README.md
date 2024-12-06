@@ -43,8 +43,7 @@ Once you open the form in a browser:
 - Optionally, click **Reset** to clear all fields.
 
 ## Output
-### Screenshot
-![Student Registration Form Screenshot](https://github.com/manishdahake10/attachments/screenshot.png)
+<a href="stdregistrationdashboard.netlify.app">Click Here and visit the project</a>
 
 ## Code Structure
 The project consists of the following structure:
